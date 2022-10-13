@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  CoinAssets
+
+  Created by Андрей Масалкин on 12.10.2022.
+  
+*/
+
+"title_assets" = "Assets";
+"title_watchlist" = "Watchlist";
+"title_settings" = "Settings";
+"title_icon" = "Icon";
+"title_error" = "Error";
+
+"property_market_cap" = "Market Cap";
+"property_supply" = "Supply";
+"property_volume_24h" = "Volume (24h)";
+
+"placeholder_watchlist_title" = "No assets yet";
+"placeholder_watchlist_description" = "Your Watchlist will appear here";
+
